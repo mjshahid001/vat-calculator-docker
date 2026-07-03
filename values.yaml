@@ -1,2 +1,2 @@
 image: mjshahid001/vat:<+pipeline.sequenceId>
-replicas: 1
+replicas: 5
